@@ -1,0 +1,17 @@
+import java.util.Scanner;// import the Scanner class
+public class HelloWorld
+{
+   public static void main(String[] args)
+   { 
+   
+     System.out.println( Hello World! );
+      
+         
+         
+         
+         
+         
+         
+                    
+              
+      
